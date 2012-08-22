@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns		= "http://www.w3.org/ns/widgets"
 	xmlns:gap	= "http://phonegap.com/ns/1.0"
-	id		= "com.phonegap.getting.started"
+	id		= "com.jlaurendi.droptime"
 	version 	= "1.0.0">
 
-	<name>PhoneGap: Getting Started</name>
+	<name>DropTime</name>
 
 	<description>
-		A template for getting started with PhoneGap development and build.phonegap.com
+		A mobile app for helping patients take their eyedrops on time.
 	</description>
 
-	<author href="http://alunny.github.com"
-		email="andrew.lunny@nitobi.com">
-		Andrew Lunny
+	<author href="http://www.josephlaurendi.com"
+		email="jlaurendi@gmail.com">
+		Joseph Laurendi
 	</author>
 
 	<icon src="icon.png" gap:role="default" />
